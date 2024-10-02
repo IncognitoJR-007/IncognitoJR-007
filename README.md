@@ -58,10 +58,6 @@
 
 <hr/>
 
-<br/>
-
-<hr/>
-
 <h3 align="center">Support:</h3>
 <div align=center>
 <p><a href="https://buymeacoffee.com/rahuljr7"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/rahuljr7" />
