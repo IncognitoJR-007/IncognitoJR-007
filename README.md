@@ -6,6 +6,8 @@
 
 <h3 align="center">Cyber Security Researcher from India 🇮🇳</h3>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incognitojr-007" alt="incognitojr-007" /></a> </p>
+
 <p align="left"> <a href="https://twitter.com/rahul_jr_007" target="blank"><img src="https://img.shields.io/twitter/follow/rahul_jr_007?logo=twitter&style=for-the-badge" alt="rahul_jr_007" /></a> </p>
 
 <div align="center">
@@ -64,4 +66,3 @@
 </a></p>
 </div>
 <br><br/>
-
